@@ -62,7 +62,7 @@
 
 ###
 
-<h5 align="left">Project/<br>├── assets/<br>│   ├── header/          # Header files<br>│   └── footer/          # Footer files<br>├── css/                 # Bootstrap CSS files<br>├── js/                  # JavaScript files (Bootstrap & Toastar)<br>└── users_app/<br>    ├── database.php     # Database connection<br>    ├── add_user.php     # Add user functionality<br>    ├── index.php        # Display users<br>    └── database files   # Should be copied to xampp/mysql/data/</h5>
+<h5 align="left">Project/<br>├── assets/<br>│   ├── Header files<br>│   └── Footer files<br>├── css/                 # Bootstrap CSS files<br>├── js/                  # JavaScript files (Bootstrap & Toastar)<br>└── users_app/<br>    ├── database.php     # Database connection<br>    ├── add_user.php     # Add user functionality<br>    ├── index.php        # Display users<br>    └── database files   # Should be copied to xampp/mysql/data/</h5>
 
 ###
 
