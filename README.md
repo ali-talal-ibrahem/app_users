@@ -54,7 +54,7 @@
 
 ###
 
-<h5 align="left">- Open your browser and go to http://localhost/your-project-folder/<br><br>- The main page should appear</h5>
+<h5 align="left">- Open your browser and go to http://localhost/app_users/<br><br>- The main page should appear</h5>
 
 ###
 
